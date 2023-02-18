@@ -1,0 +1,52 @@
+.image{
+    height: 56px;
+    width: 47px;
+    border-radius: 57px;
+    margin-left: 5px;
+    margin-top: 4px;
+}
+
+.rightside{
+    border: 1px red solid;
+    height: 300px;
+    width: 208px;
+    margin-left: 5px;
+    margin-top: 10px;
+    float: left;
+}
+.navbar{
+    width: 100%;
+}
+
+.center{
+    border: 1px red solid;
+    height: 300px;
+    width: 500px;
+    margin-left: 52px;
+    margin-top: 10px;
+    float: left;
+}
+.leftside{
+    border: 1px solid red;
+    height: 300px;
+    width: 90px;
+    float: left;
+    margin-left: 22px;
+    margin-top: 10px;
+}
+.footer{
+    width: 100%;
+    height: 30px;
+    border: 1px solid red;
+    margin-top: 320px;
+    background-color: royalblue;
+    text-align: right;
+}
+.signup{
+    border: 1px solid orange;
+    margin: 9px;
+    height: 270px;
+    padding: 16px;
+    color: green;
+    background-color: royalblue;
+}
